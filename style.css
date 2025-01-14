@@ -7,7 +7,7 @@
 }
 
 body{
-    background: url("./Assets/Map.png") no-repeat center center / cover;
+    background: url(".Map.png") no-repeat center center / cover;
     width: 100vw;
     height: 100vh;
     overflow: hidden;
